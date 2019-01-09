@@ -1,2 +1,2 @@
 # hello-world
-my new CS50
+Here is my new CS50 GitHub branch
